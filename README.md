@@ -22,9 +22,11 @@ To edit this project:
 :bust_in_silhouette: Andres
 - Github: [@](https://github.com/Gopxfs)
 - Linkedin: [Andres](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/)
+
 :bust_in_silhouette: Gabriel Fonseca
 - Github: [@Gopxfs](https://github.com/Gopxfs)
 - Linkedin: [Gabriel Fonseca](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/)
+
 :bust_in_silhouette: Tinashe
 - Github: [@](https://github.com/Gopxfs)
 - Linkedin: [Tinashe](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/)
