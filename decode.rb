@@ -19,7 +19,7 @@ def decode_word(word)
   word_array.each do |letter|
     decoded_word += decode_char(letter)
   end
-    decoded_word
+  decoded_word
 end
 
 # Decode Message
