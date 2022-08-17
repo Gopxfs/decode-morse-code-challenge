@@ -35,4 +35,4 @@ To edit this project:
 Give a :star: if you like our project!
 
 ## :pencil: License
-This project is [MIT](https://github.com/Gopxfs/fire-data-app/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Gopxfs/decode-morse-code-challenge/blob/dev/LICENSE) licensed.
