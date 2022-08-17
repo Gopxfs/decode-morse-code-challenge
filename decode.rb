@@ -17,6 +17,19 @@ def decode_word(word)
   word_array.each do |letter|
     decoded_word += decode_char(letter)
   end
-  puts decoded_word
+  return decoded_word
 end
+
+# Decode Message 
+
+def decode_message(message)
+  decoded_message = ""
+  word_array = message.split("   ")
+  word_array.each do |word|
+    decoded_message += "#{decode_word(word)} "
+  end
+  puts  decoded_message
+end
+
+decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
 
