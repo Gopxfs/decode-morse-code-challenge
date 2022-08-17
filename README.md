@@ -27,9 +27,10 @@ To edit this project:
 - Github: [@Gopxfs](https://github.com/Gopxfs)
 - Linkedin: [Gabriel Fonseca](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/)
 
-:bust_in_silhouette: Tinashe
-- Github: [@](https://github.com/Gopxfs)
-- Linkedin: [Tinashe](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/)
+:bust_in_silhouette: Tinashe Timothy Murambinda
+* <a href="https://github.com/Draxeytina/">Github</a>
+* <a href="https://twitter.com/tinamura2">Twitter</a>
+* <a href="https://www.linkedin.com/in/timothy-tinashe-murambinda/">LinkedIn</a>
 
 ## :star2: Show your support
 Give a :star: if you like our project!
