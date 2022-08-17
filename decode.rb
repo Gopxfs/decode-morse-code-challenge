@@ -6,6 +6,17 @@ Y: '-.--', Z: '--..'}
 # Decode char
 def decode_char(entry)
   $morseSymbols.each do |letter, morse|
-    puts "#{letter}" if morse == entry
+    return "#{letter}" if morse == entry
   end
 end
+
+# Decode word
+def decode_word(word)
+  decoded_word = ""
+  word_array = word.split(" ")
+  word_array.each do |letter|
+    decoded_word += decode_char(letter)
+  end
+  puts decoded_word
+end
+
